@@ -6,6 +6,8 @@ Just a few of the things that I find useful for guitar pedal building. Some of t
 
 Templates and illustrations that I find useful when designing enclosures or trying to do mock-ups before ordering prints.
 
+All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use, but commercial use is prohibited. Thanks for understanding!
+
 ### for Affinity Designer (AD)...
 *Prerequisites (all linked files require the following):
 
@@ -31,3 +33,17 @@ Templates and illustrations that I find useful when designing enclosures or tryi
 #### Knob Illustrations created for Affinity Designer (AD)...
 
 [AD Pedal Knob Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Knobs)
+
+#### Audio and DC Power Jack Illustrations created for Affinity Designer (AD)...
+
+[AD Audio and DC Jack Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Jacks)
+
+
+## Want to Support My Efforts?
+
+Folks that support creators are awesome! If you feel like I've provided you with something useful and you'd like to show your appreciation, feel free to give my repo a star. If giving me a star just doesn't feel like enough, you can contribute to my guitar pedal building hobby by supporting me at the button below.
+
+<a href="https://www.buymeacoffee.com/brettcoppolo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+Thank you so much!
+
