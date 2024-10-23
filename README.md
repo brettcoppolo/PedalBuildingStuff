@@ -41,9 +41,7 @@ All of the illustrations I've shared in the Graphics folder are of my own creati
 
 ## Want to Support My Efforts?
 
-Folks that support creators are awesome! If you feel like I've provided you with something useful and you'd like to show your appreciation, feel free to give my repo a star. If giving me a star just doesn't feel like enough, you can contribute to my guitar pedal building hobby by supporting me at the button below.
+Folks that support creators are awesome! If you feel like I've provided you with something useful and you'd like to show your appreciation, feel free to give my repo a star. If giving me a star just doesn't feel like enough, you can contribute to my guitar pedal building hobby by supporting me through the "Sponsor this project" links on the side bar!
 
-<a href="https://www.buymeacoffee.com/brettcoppolo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-Thank you so much!
+Thank you so much and happy pedal building!
 
