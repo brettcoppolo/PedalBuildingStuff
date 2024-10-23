@@ -1,6 +1,6 @@
 # Graphics - Jacks
 
-Templates and illustrations that I find useful when designing enclosures or trying to do mock-ups before ordering prints.
+Templates and illustrations that I find useful when designing enclosures or trying to do mock-ups to test component placement.
 
 All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use, but commercial use is prohibited. Thanks for understanding!
 
