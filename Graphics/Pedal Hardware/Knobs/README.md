@@ -1,4 +1,4 @@
-# Graphics - Jacks
+# Graphics - Knobs
 
 Templates and illustrations that I find useful when designing enclosures or trying to do mock-ups to test label placement and get a general feel for the look of the finished device when designing graphics for enclosures.
 
