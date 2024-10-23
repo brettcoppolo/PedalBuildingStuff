@@ -1,6 +1,6 @@
 # Graphics - Knobs
 
-Templates and illustrations that I find useful when designing enclosures or trying to do mock-ups to test label placement and get a general feel for the look of the finished device when designing graphics for enclosures.
+Templates and illustrations that I find useful when designing enclosures. These come in handy for testing label placement and to get a general feel for the look of the finished pedal.
 
 All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use, but commercial use is prohibited. Thanks for understanding!
 
