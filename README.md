@@ -30,11 +30,15 @@ All of the illustrations I've shared in the Graphics folder are of my own creati
 
 [AD Tayda UV Printing Templates for PedalPCB projects](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/UV%20Printing%20Templates%20-%20Affinity%20Designer)
 
-#### Knob Illustrations created for Affinity Designer (AD)...
+#### Knob Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
-[AD Pedal Knob Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Knobs)
+[Pedal Knob Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Knobs)
 
-#### Audio and DC Power Jack Illustrations created for Affinity Designer (AD)...
+#### Audio and DC Power Jack Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
-[AD Audio and DC Jack Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Jacks)
+[Audio and DC Jack Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Jacks)
+
+#### Footswitch and Toggle Switch Illustrations (available in Affinity Designer native files and layered PDF formats)...
+
+[Footswitch and Toggle Switch Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Switches)
 
