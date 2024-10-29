@@ -1,4 +1,4 @@
-# Graphics - Knobs
+# Component Illustrations - Knobs
 
 Templates and illustrations that I find useful when designing enclosures. These come in handy for testing label placement and to get a general feel for the look of the finished pedal.
 
