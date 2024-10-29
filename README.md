@@ -2,11 +2,11 @@
 
 Just a few of the things that I find useful for guitar pedal building. Some of the items I've either created myself or have gathered from other generous folks that have made them available for use.
 
-## Graphics-Related
+## UV Printing Starter Templates
 
-Templates and illustrations that I find useful when designing enclosures or trying to do mock-ups before ordering prints.
+Affinity Designer based starter templates for creating high-quality UV printing PDFs for use with Tayda Electronics using standard PedalPCB pre-drilled enclosures.
 
-All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use, but commercial use is prohibited. Thanks for understanding!
+[AD Tayda UV Printing Templates for PedalPCB projects](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/UV%20Printing%20Templates%20-%20Affinity%20Designer)
 
 ### for Affinity Designer (AD)...
 *Prerequisites (all linked files require the following):
@@ -26,9 +26,9 @@ All of the illustrations I've shared in the Graphics folder are of my own creati
 
 <hr/>
 
-#### Tayda/PedalPCB UV Printing design templates for Affinity Designer (AD)...
+## Vector-based Component Illustrations
 
-[AD Tayda UV Printing Templates for PedalPCB projects](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/UV%20Printing%20Templates%20-%20Affinity%20Designer)
+All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use. Commercial-use is strictly prohibited without prior authorization.
 
 #### Knob Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
