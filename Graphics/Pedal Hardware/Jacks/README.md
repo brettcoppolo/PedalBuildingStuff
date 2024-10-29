@@ -1,4 +1,4 @@
-# Graphics - Jacks
+# Component Illustrations - Jacks
 
 Templates and illustrations that I find useful when designing enclosures or trying to do mock-ups to test component placement.
 
@@ -11,4 +11,3 @@ If you're using Affinity Designer, be sure to grab the file ending in .afdesign 
 ## Not using Affinity Designer?
 
 No problem. Download the layered PDF file instead. Most other vector drawing programs should be able to use the layered PDF, it just may not be as organized as the Affinity Designer native file.
-
