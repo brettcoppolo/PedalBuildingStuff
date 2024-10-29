@@ -1,4 +1,4 @@
-# Graphics - Pedal Hardware
+# Component Illustrations - Pedal Hardware
 
 Hardware illustrations that I find helpful when designing graphics for pedal enclosures.
 
