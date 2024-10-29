@@ -1,4 +1,4 @@
-# Graphics - Switches
+# Component Illustrations - Switches
 
 Templates and illustrations that I find useful when designing enclosures or trying to do mock-ups to test component placement.
 
