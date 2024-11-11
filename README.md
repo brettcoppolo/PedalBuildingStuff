@@ -34,7 +34,7 @@ All of the illustrations I've shared in the Graphics folder are of my own creati
 
 [Audio and DC Jack Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Jacks)
 
-#### Enclosure Illustrations (available in Affinity Designer native files and layered PDF formats)...
+#### Enclosure Illustrations (available in Affinity Designer native files)...
 
 [Enclosure Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Enclosures)
 
