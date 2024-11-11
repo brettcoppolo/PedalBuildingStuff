@@ -1,4 +1,4 @@
-# Component Illustrations - Jacks
+# Component Illustrations - Enclosures
 
 Illustrations that I find useful when designing enclosures or trying to do mock-ups to test component placement.
 

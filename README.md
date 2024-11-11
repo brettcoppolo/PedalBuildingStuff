@@ -30,15 +30,22 @@ Affinity Designer based starter templates for creating high-quality UV printing 
 
 All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use. Commercial-use is strictly prohibited without prior authorization.
 
-#### Knob Illustrations (available in Affinity Designer native files and layered PDF formats)...
-
-[Pedal Knob Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Knobs)
-
 #### Audio and DC Power Jack Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
 [Audio and DC Jack Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Jacks)
+
+#### Enclosure Illustrations (available in Affinity Designer native files and layered PDF formats)...
+
+[Enclosure Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Enclosures)
 
 #### Footswitch and Toggle Switch Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
 [Footswitch and Toggle Switch Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Switches)
 
+#### Knob Illustrations (available in Affinity Designer native files and layered PDF formats)...
+
+[Pedal Knob Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Knobs)
+
+#### Potentiometer Illustrations (available in Affinity Designer native files and layered PDF formats)...
+
+[Potentiometer Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Potentiometers)
