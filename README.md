@@ -26,7 +26,7 @@ Affinity Designer based starter templates for creating high-quality UV printing 
 
 <hr/>
 
-## Vector-based Component Illustrations
+## Component Illustrations
 
 All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use. Commercial-use is strictly prohibited without prior authorization.
 
