@@ -1,6 +1,6 @@
-# Component Illustrations - Pedal Hardware
+# Component Illustrations - Illustrations
 
-Hardware illustrations that I find helpful when designing graphics for pedal enclosures.
+Illustrations that I find helpful when designing graphics for pedal enclosures.
 
 All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use, but commercial use is prohibited. Thanks for understanding!
 
