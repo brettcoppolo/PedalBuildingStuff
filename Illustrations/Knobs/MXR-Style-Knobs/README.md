@@ -1,8 +1,12 @@
-# Component Illustrations - MXR "Style" Knobs
+# Component Illustrations - MXR Style Knobs
 
 Illustrations that I find useful when designing enclosures. These come in handy for testing label placement and to get a general feel for the look of the finished pedal.
 
 All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use, but commercial use is prohibited. Thanks for understanding!
+
+## Preview
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/c121e18d-24e6-47ae-adf4-158d32f2d8cd">
+
 
 ## Affinity Designer Support
 

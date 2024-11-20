@@ -1,8 +1,12 @@
-# Component Illustrations - Davies "Style" Knobs
+# Component Illustrations - Davies Style Knobs
 
 Illustrations that I find useful when designing enclosures. These come in handy for testing label placement and to get a general feel for the look of the finished pedal.
 
 All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use, but commercial use is prohibited. Thanks for understanding!
+
+## Preview
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/69402545-5b69-4e79-bc99-cf3cbf5100ac">
+
 
 ## Affinity Designer Support
 
