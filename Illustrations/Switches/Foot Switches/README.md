@@ -4,6 +4,16 @@ Illustrations that I find useful when designing enclosures or trying to do mock-
 
 All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use, but commercial use is prohibited. Thanks for understanding!
 
+## Preview - Foot Switch Accessories
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/4733dc21-96fb-494d-ac4e-010239cd3ffa">
+
+## Preview - Latching Foot Switches
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/c5e75326-b7f8-488b-be8d-2f0291ad57ac">
+
+## Preview - Momentary Foot Switches
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/d03f748e-e103-4ee7-aa9d-f03f22055f02">
+
+
 ## Affinity Designer Support
 
 If you're using Affinity Designer, be sure to grab the file ending in .afdesign instead of the regular PDF. The Affinity Designer file is highly organized and will make quick work of adding these illustrations to your global assets, making them much faster and easier to use when doing mock-ups.
