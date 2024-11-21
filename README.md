@@ -1,6 +1,6 @@
 # Pedal Building Stuff
 
-Just a few of the things that I find useful for guitar pedal building. Some of the items I've either created myself or have gathered from other generous folks that have made them available for use.
+Just a few of the things that I find useful for guitar pedal building and designing enclosure graphics.
 
 ## UV Printing Starter Templates
 
@@ -32,23 +32,27 @@ All of the illustrations I've shared in the Graphics folder are of my own creati
 
 #### Audio and DC Power Jack Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
-[Audio and DC Jack Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Jacks)
+[Audio and DC Jack Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/Jacks)
 
 #### Enclosure Illustrations (available in Affinity Designer native files)...
 
-[Enclosure Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Enclosures)
+[Enclosure Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/Enclosures)
 
 #### Footswitch and Toggle Switch Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
-[Footswitch and Toggle Switch Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Switches)
+[Footswitch and Toggle Switch Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/Switches)
 
 #### Knob Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
-[Pedal Knob Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Knobs)
+[Pedal Knob Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/Knobs)
+
+#### LED Illustrations (available in Affinity Designer native files and layered PDF formats)...
+
+[Pedal Knob Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/LEDs)
 
 #### Potentiometer Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
-[Potentiometer Illustrations](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/Graphics/Pedal%20Hardware/Potentiometers)
+[Potentiometer Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/Potentiometers)
 
 ## Terms of Use
 
