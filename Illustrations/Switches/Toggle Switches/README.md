@@ -4,6 +4,18 @@ Illustrations that I find useful when designing enclosures or trying to do mock-
 
 All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use, but commercial use is prohibited. Thanks for understanding!
 
+## Preview - Miniature 3PDT & 4PDT Toggle Switches
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/8e396540-845b-4c8c-b8fe-aaa40f7f50dd">
+
+## Preview - Miniature SPDT & DPDT Toggle Switches
+<img width="678" alt="image" src="https://github.com/user-attachments/assets/61194736-9497-4f4e-a421-f38988848e5b">
+
+## Preview - Miniature Toggle Switches Accessories
+<img width="553" alt="image" src="https://github.com/user-attachments/assets/52ad939f-9ae0-412e-879f-15aa653002ad">
+
+## Preview - Sub-Miniature Toggle Switches
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/27f150d9-a41d-4448-b3a4-2dacb118becd">
+
 ## Affinity Designer Support
 
 If you're using Affinity Designer, be sure to grab the file ending in .afdesign instead of the regular PDF. The Affinity Designer file is highly organized and will make quick work of adding these illustrations to your global assets, making them much faster and easier to use when doing mock-ups.
