@@ -28,7 +28,7 @@ Affinity Designer based starter templates for creating high-quality UV printing 
 
 ## Component Illustrations
 
-All of the illustrations I've shared in the Graphics folder are of my own creation. You're welcome to use them for personal-use. Commercial-use is strictly prohibited without prior authorization.
+All of the illustrations I've shared in the Illustrations folder are of my own creation. You're welcome to use them for personal-use. Commercial-use is strictly prohibited without prior authorization.
 
 #### Audio and DC Power Jack Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
@@ -38,9 +38,9 @@ All of the illustrations I've shared in the Graphics folder are of my own creati
 
 [Enclosure Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/Enclosures)
 
-#### Footswitch and Toggle Switch Illustrations (available in Affinity Designer native files and layered PDF formats)...
+#### Switch Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
-[Footswitch and Toggle Switch Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/Switches)
+[Switch Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/Switches)
 
 #### Knob Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
