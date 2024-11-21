@@ -1,4 +1,4 @@
-# Pedal Building Stuff
+# Guitar Pedal Graphic Design
 
 Just a few of the things that I find useful for guitar pedal building and designing enclosure graphics.
 
