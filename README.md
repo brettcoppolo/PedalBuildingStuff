@@ -48,7 +48,7 @@ All of the illustrations I've shared in the Graphics folder are of my own creati
 
 #### LED Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
-[Pedal Knob Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/LEDs)
+[LED Illustrations](https://github.com/CoppoloElectronics/Graphic-Design/tree/main/Illustrations/LEDs)
 
 #### Potentiometer Illustrations (available in Affinity Designer native files and layered PDF formats)...
 
