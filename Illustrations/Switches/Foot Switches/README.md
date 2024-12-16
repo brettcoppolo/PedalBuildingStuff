@@ -8,7 +8,8 @@ All of the illustrations I've shared in the Graphics folder are of my own creati
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/4733dc21-96fb-494d-ac4e-010239cd3ffa">
 
 ## Preview - Latching Foot Switches
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/c5e75326-b7f8-488b-be8d-2f0291ad57ac">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4b7f988b-520d-4ec0-9095-49ad7a4cb151">
+
 
 ## Preview - Momentary Foot Switches
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/67050b71-c565-4e91-8ad5-e0c8f58fa577">
