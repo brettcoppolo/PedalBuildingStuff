@@ -1,20 +1,28 @@
 # Guitar Pedal Graphic Design
 
-Just a few of the things that I find useful for guitar pedal building and designing enclosure graphics.
+A collection of vector illustrations and graphic design templates I've created for the planning, graphic design, and mock-up of guitar effects pedals.
 
 ## UV Printing Starter Templates
 
-Affinity Designer based starter templates for creating high-quality UV printing PDFs for use with Tayda Electronics using standard PedalPCB pre-drilled enclosures.
+Designed in:<br>
+<img width="200" src="https://github.com/user-attachments/assets/84d35391-edc1-4abf-9644-bf1f87c95c8d"></img>
+
+Starter templates for creating high-quality UV printing PDFs for use with Tayda Electronics using standard PedalPCB pre-drilled enclosures. Individually documented and ready for your next UV print design! Available in the most common Tayda Pre-Drilled PedalPCB enclosure formats, 3-knob, 4-knob, 5-knob, and 6-knob. Other options are also available.
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3d6ece01-26e9-4bca-87ad-4b6250ec7897">
+<br>
+<br>
 
 [AD Tayda UV Printing Templates for PedalPCB projects](https://github.com/brettcoppolo/PedalBuildingStuff/tree/main/UV%20Printing%20Templates%20-%20Affinity%20Designer)
 
-### for Affinity Designer (AD)...
+### for Affinity Designer 2 (AD)...
+
 *Prerequisites (all linked files require the following):
 
 <ul>
 <li>
 
-[Affinity Designer Software](https://affinity.serif.com/en-gb/)
+[Affinity Designer 2 Software](https://affinity.serif.com/en-gb/)
 
 </li>
 <li>
